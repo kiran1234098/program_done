@@ -4,4 +4,3 @@ class p  {
         System.out.println("Hello World"); 
     } 
 }
-
